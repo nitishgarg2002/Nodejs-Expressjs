@@ -2,7 +2,7 @@
   "name": "devcamper_api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "SET NODE_ENV=production && node server",
     "dev": "nodemon server"
